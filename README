@@ -1,0 +1,1 @@
+This set of programs solve the basic synchronisation problems.Here synchronisation accomplished by using semaphore,mutex and condition variable.
